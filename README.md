@@ -6,7 +6,7 @@ Este proyecto es un sitio web frontend desarrollado con HTML y CSS para una pagi
 
 ## Cómo Ejecutar la Aplicación
 
-1. Clona este repositorio: `git clone ((https://github.com/rominarg/maxburguer))`
+1. Clona este repositorio: `git clone ((https://github.com/rominarg/maxburguer)
 2. Abre el archivo `index.html` en tu navegador web.
 
 ## Tecnologías Utilizadas
