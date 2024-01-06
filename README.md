@@ -11,9 +11,9 @@ Este proyecto es un sitio web frontend desarrollado con HTML y CSS para una pagi
 
 ## Tecnologías Utilizadas
 
-- HTML
-- CSS
-- Javascript
+HTML: Estructura básica y contenido de la página.
+CSS: Estilo y diseño visual para mejorar la presentación.
+JavaScript: Interactividad y funcionalidades dinámicas.
 
 ## LINK al sitio web
 
