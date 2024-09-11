@@ -20,11 +20,7 @@ Este proyecto es un sitio web frontend desarrollado con HTML y CSS para una pagi
 
 [página web](https://rominarg.github.io/maxburguer)
 
-## Contacto
 
-Creado por: Romina Navarrete  
-Email: rominagnavarrete@gmail.com  
-WhatsApp: [+5492915736211](https://wa.me/5492915736211)
 
 
 
